@@ -1,0 +1,5 @@
+/.env
+/pdf_downloads/
+/avaliacoes.xlsx
+/credentials.json
+/token.pickle
